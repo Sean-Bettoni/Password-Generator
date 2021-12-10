@@ -1,2 +1,2 @@
-# Password-Generator
-A password generator created in javascript with the help of html and css
+A password generator that gives you the option of including lowercase and uppercase alphabet, aswell as numbers, symbols and a password length ranging from 8 characters to 128 characters.
+
